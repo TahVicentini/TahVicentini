@@ -4,5 +4,4 @@ I’m currently working on Data Analysis
 I’m currently learning SQL
 😄 Pronouns: Her/She
 
-[![Tah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahvicentini)](https://github.com/anuraghazra/github-readme-stats)
 ![Tah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahvicentini&show_icons=true&theme=tpkyonight)

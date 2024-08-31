@@ -9,6 +9,6 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahvicentini&layout=compact&theme=tokyonight"/>
   </a>
 
-
+<img src="{https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
 
 

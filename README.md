@@ -4,7 +4,11 @@
 - I’m currently learning SQL
 - 😄 Pronouns: Her/She
 
-![Tah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahvicentini&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahvicentini&layout=compact&theme=tokyonight)
+  <a href="https://github.com/tahvicentini/github-readme-stats">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=tahvicentini&show_icons=true&theme=tokyonight"/>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahvicentini&layout=compact&theme=tokyonight"/>
+  </a>
+
+
 
 

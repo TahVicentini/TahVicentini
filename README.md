@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thaizy+Vicentini;I'm+22+years+old;I'm+from+Brazil;I'm+currently+learning+SQL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thaizy+Vicentini;I'm+22+years+old;I'm+from+Brazil;I'm+currently+learning+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - I’m currently working on Data Analysis
 - I’m currently learning SQL
